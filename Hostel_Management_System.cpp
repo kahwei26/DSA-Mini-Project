@@ -1,6 +1,3 @@
-//Chong Kah Wei A20EC0027
-//Heong Yi Qing A20EC0043
-
 #include <iostream>
 #include <string>
 using namespace std;
