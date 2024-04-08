@@ -1,6 +1,6 @@
 ## Overview
 This repository contains the assignment and mini project of SECJ2013 Data Structure and Algorithm. Basically, they are simple management system which utlized the concept of DSA. </br>
-# Hostel Management System
+### Hostel Management System
 Role: Admin (key = 123456), Customer
 Use case: 
 - Check Availability of Hostel Room (Admin, Customer)
@@ -8,7 +8,7 @@ Use case:
 - Check Out Hostel Room (Admin)
 - Check Hotel Resident's Information (Admin)
 
-# Patient Management System
+### Patient Management System
 Role: Admin (key = 123456), Patient
 Use case: 
 - Register/Login (Admin, Patient)
@@ -20,5 +20,5 @@ Use case:
 - Check the Turns (Patient)
 - Cancel Appointment (Patient)
 
-  # Utilization of DSA concept
-  - Queue, Linked List, Sorting Algorithm (Insertion Sort, Selection Sort)
+### Utilization of DSA concept
+- Queue, Linked List, Sorting Algorithm (Insertion Sort, Selection Sort)
