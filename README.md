@@ -1,5 +1,5 @@
 ## Overview
-This repository contains the assignment and mini project of SECJ2013 Data Structure and Algorithm. Basically, they are simple management system which utlized the concept of DSA. </br>
+This repository contains the assignment and mini project of SECJ2013 Data Structure and Algorithm. Basically, they are simple management systems which utlized the concept of DSA. </br>
 ### Hostel Management System
 Role: Admin (key = 123456), Customer
 Use case: 
